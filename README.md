@@ -21,3 +21,11 @@ command queried with pandas gives the result in a dataframe with column named as
 
 We iterate over the rows of this column, i.e., table names and extract all the data in a pandas dataframe. It, finally, is 
 exported as .csv file.
+
+### obscenity_check.py
+
+This script checks for any obscene, profane or swear words in a document(.txt). Though, not much useful, but can come in handy to analyse text documents and mark them fit for appropriate audiences.
+
+It makes use of **requests** library.
+
+External resource used - http://www.wdylike.appspot.com/
