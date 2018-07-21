@@ -29,3 +29,9 @@ This script checks for any obscene, profane or swear words in a document(.txt). 
 It makes use of **requests** library.
 
 External resource used - http://www.wdylike.appspot.com/
+
+### word_counter.py
+
+This script counts the number of words and lines in a document (.txt). It is useful for keeping a track of the word limits in a document.
+
+It does not use any external library.
