@@ -1,12 +1,5 @@
 # Python Scripts
-
-This is a collection of few of the useful python scripts that I use every now and then between projects, to automate tasks and
-make work easier. 
-
-Some of these are solely by me, some have been modified from different sources. These are pretty useful to perform small 
-operations to reduce workload.
-
-Any updates are welcome!
+Some useful python scripts to automate tasks and make things easier.
 
 ### export_as_csv.py
 
