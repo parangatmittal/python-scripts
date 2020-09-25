@@ -28,3 +28,10 @@ External resource used - http://www.wdylike.appspot.com/
 This script counts the number of words and lines in a document (.txt). It is useful for keeping a track of the word limits in a document.
 
 It does not use any external library.
+
+### convert_to_json.py
+
+This script converts contents from any text file to the JavaScript Object Notation (JSON) format. JSON format is widely used for sending and receiving data to and from a server. JSON format is similar to Python's dictionary data structure.
+
+It makes use of **json** library.
+
